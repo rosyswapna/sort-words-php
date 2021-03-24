@@ -1,6 +1,6 @@
 # Sort words
 
-Sort words in the order of sum of position number of each alphabet
+Sort words in the order of sum of position number of each alphabet, like A => 1, B=> 2 ....Z => 26
 
 ## INPUT
 $words = array(
